@@ -4,6 +4,8 @@ public class Test {
 
         System.out.println("Test git");
 
+        System.out.println("Test merge");
+
     }
-    
+
 }
